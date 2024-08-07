@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include a search bar in the navbar for quick blockchain term searches\", \"checked\": true}, {\"feature\": \"Add a 'Latest News' section in the navbar to provide updates on blockchain technology\", \"checked\": false}, {\"feature\": \"Incorporate a dropdown under 'About' for 'Our Vision', 'Team', and 'Technology'\", \"checked\": true}, {\"feature\": \"Add social media icons in the navbar for easy access to community pages\", \"checked\": false}, {\"feature\": \"Include a dark/light mode toggle in the navbar for user preference\", \"checked\": true}, {\"feature\": \"Embed a 'Sign Up/Log In' option in the navbar for personalized experiences\", \"checked\": false}], \"input_token_count\": 297, \"output_token_count\": 150, \"time_taken\": \"0:00:11.500566\"}",
+        "message_id": "guest07082024201547",
+        "timestamp": "07082024201600",
+        "component_file_name": "simple_hero_component_1723061448",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear upon scrolling?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear/Reappear upon scrolling\"}, {\"question 2\": \"For the 'About' and 'Contact' sections, do you prefer a single-page layout with internal links or separate pages for each section?\", \"option1\": \"Single-page layout with internal links\", \"option2\": \"Separate pages for each section\"}], \"input_token_count\": 343, \"output_token_count\": 117, \"time_taken\": \"0:00:09.101482\"}",
+        "message_id": "guest07082024201547",
+        "timestamp": "07082024201558",
+        "component_file_name": "simple_hero_component_1723061448",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great suggestion, I will add a navbar with those navlinks.",
         "message_id": "guest07082024201547",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Certainly, I will add a button that says \"hello world\".",
-        "message_id": "guest07082024201227",
-        "timestamp": "07082024201228",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest07082024201227",
-        "timestamp": "07082024201228",
-        "component_file_name": "simple_header_component_1723061448",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "07082024201549",
+        "content": "In the conversation, the user requested the AI to add a button that says \"hello world.\" The AI acknowledged the request and confirmed it would add the button. It then sought further clarification by asking the user to describe the project in more detail.",
+        "timestamp": "07082024201600",
         "message_id": "guest07082024201547"
     }
 ]
