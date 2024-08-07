@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear upon scrolling?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear/Reappear upon scrolling\"}, {\"question 2\": \"For the 'About' and 'Contact' sections, do you prefer a single-page layout with internal links or separate pages for each section?\", \"option1\": \"Single-page layout with internal links\", \"option2\": \"Separate pages for each section\"}], \"input_token_count\": 343, \"output_token_count\": 117, \"time_taken\": \"0:00:09.101482\"}",
+        "message_id": "guest07082024201547",
+        "timestamp": "07082024201558",
+        "component_file_name": "simple_hero_component_1723061448",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great suggestion, I will add a navbar with those navlinks.",
         "message_id": "guest07082024201547",
