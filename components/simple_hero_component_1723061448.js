@@ -5,11 +5,11 @@
 Vue.component("simple_hero_component_1723061448", {
     <nav class="bg-white dark:bg-gray-900 shadow-md">
         <div class="max-w-screen-xl mx-auto px-4 py-2 flex justify-between items-center">
-            <div class="text-lg font-semibold text-gray-900 dark:text-white">Brand</div>
+            <div class="text-lg font-semibold text-purple-900 dark:text-white">Brand</div>
             <div class="space-x-4">
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-500">Home</a>
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-500">About</a>
-                <a href="#" class="text-gray-900 dark:text-white hover:text-blue-500">Contact</a>
+                <a href="#" class="text-purple-900 dark:text-white hover:text-purple-500">Home</a>
+                <a href="#" class="text-purple-900 dark:text-white hover:text-purple-500">About</a>
+                <a href="#" class="text-purple-900 dark:text-white hover:text-purple-500">Contact</a>
             </div>
         </div>
     </nav>
@@ -20,20 +20,20 @@ Vue.component("simple_hero_component_1723061448", {
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                     
                     <div id="hero-title-container-text" class="flex">
-                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Discover the Latest in Blockchain Innovation</h1>
+                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl text-purple-900 dark:text-white">Discover the Latest in Blockchain Innovation</h1>
                     </div>
 
                     <div id="hero-subtitle-container" class="flex">
-                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Stay Ahead with Real-Time Blockchain Information</p>
+                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl text-purple-400 dark:text-gray-400">Stay Ahead with Real-Time Blockchain Information</p>
                     </div>
 
                     <div id="hero-buttons-container" class="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
                         <div id="hero-button-1-container" class="flex">
-                            <a id="hero-button-1" href="https://github.com/themesberg/landwind" class="flex-1  items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-gray-900 border border-gray-200 rounded-lg sm:w-auto hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">Explore Now</a>
+                            <a id="hero-button-1" href="https://github.com/themesberg/landwind" class="flex-1 items-center justify-center w-full px-5 py-3 text-sm font-medium text-center text-purple-900 border border-gray-200 rounded-lg sm:w-auto hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">Explore Now</a>
                         </div>
 
                         <div id="hero-button-2-container" class="flex">
-                            <a id="hero-button-2" href="https://www.figma.com/community/file/1125744163617429490" class="flex-1  items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Learn More</a>
+                            <a id="hero-button-2" href="https://www.figma.com/community/file/1125744163617429490" class="flex-1 items-center justify-center w-full px-5 py-3 mb-2 mr-2 text-sm font-medium text-purple-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-purple-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Learn More</a>
                         </div>
                     </div>
                     
