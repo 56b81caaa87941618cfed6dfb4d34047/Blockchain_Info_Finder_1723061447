@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want to position the 'Hello World' button on the app's interface?\", \"option1\": \"Center of the main screen\", \"option2\": \"Bottom navigation bar\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a new page that displays 'Hello World'\"}], \"input_token_count\": 261, \"output_token_count\": 104, \"time_taken\": \"0:00:02.963523\"}",
+        "message_id": "guest07082024201227",
+        "timestamp": "07082024201231",
+        "component_file_name": "simple_header_component_1723061448",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, I will add a button that says \"hello world\".",
         "message_id": "guest07082024201227",
